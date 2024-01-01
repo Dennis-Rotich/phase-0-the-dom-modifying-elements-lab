@@ -1,6 +1,6 @@
 # Creating and Inserting DOM Nodes Lab
 
-## Learning Goals
+## Learning Goals 
 
 - Create DOM elements programmatically
 - Add elements to the DOM
